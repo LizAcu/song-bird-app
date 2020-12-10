@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+.App {
+  text-align: center;
+  color: white;
+  background-image: url('https://www.freevector.com/uploads/vector/preview/28724/psychedelic-pattern-02.jpg')
+  /* background-image: url('https://99percentinvisible.org/app/uploads/2019/02/abstract-background-colors.jpg') */
+  /* background-image: url('https://www.sciencefriday.com/wp-content/uploads/2018/03/shutterstock_1017761377-min.jpg'); */
+  /* background-color: black; */
+}
+.new-form {
+  /* background-image: url('https://www.freevector.com/uploads/vector/preview/28724/psychedelic-pattern-02.jpg'); */
+  /* background-image: url('https://99percentinvisible.org/app/uploads/2019/02/abstract-background-colors.jpg'); */
+  /* opacity: .9; */
+  background-color: turquoise
+  
+}
+.album-cover-image {
+  border-radius: 25px;
+  width: 500px;
+  height: 650px;
+  
+}
+.playlist-header {
+  background-color: black
+}
+.cards {
+  background-color: black;
+  border-radius: 25px;
+}
+.app-name {
+  font-family: 'Amatic SC', cursive;
+  font-family: 'Pacifico', cursive;
+  font-size: 72px
+
+}
+.form-label {
+  font-family: 'Ranchers', cursive;
+  background-color:pink;
+  width: 200px;
+  text-align: center;
+  align-content: center;
+}
+.login-form {
+  text-align: center;
+  align-content: center;
+  background-color: rgb(70, 3, 64);
+  opacity: .9;
+  /* width: 400px; */
+  /* background-image: url('https://www.freevector.com/uploads/vector/preview/28724/psychedelic-pattern-02.jpg') */
+}
+.fake-link {
+  background-color: rgb(150, 64, 143);;
+}
+.header-text {
+  color: black
+}
+.header-navbar {
+  background-color: black
+}
+
+
+
+
+
+
+
